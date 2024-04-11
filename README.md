@@ -12,45 +12,13 @@ Welcome to my GitHub! I'm passionate about crafting delightful mobile experience
 
 ## Tech Stack
 
-### Languages:
-JavaScript, TypeScript, Kotlin, Swift, C++, Python, Java, JSON
+![JavaScript](tech_icons/javascript.png) ![TypeScript](tech_icons/typescript.png) ![Kotlin](tech_icons/kotlin.png) ![Swift](tech_icons/swift.png) ![C++](tech_icons/cpp.png) ![Python](tech_icons/python.png) ![Java](tech_icons/java.png) ![JSON](tech_icons/json.png)
 
-### Frameworks:
-React Native, Expo, React JS, Redux, Redux-Toolkit, React-Query, Next JS, Express JS
+![React Native](tech_icons/react_native.png) ![Expo](tech_icons/expo.png) ![React JS](tech_icons/react.png) ![Redux](tech_icons/redux.png) ![Redux-Toolkit](tech_icons/redux_toolkit.png) ![Next JS](tech_icons/nextjs.png) ![Express JS](tech_icons/express.png)
 
-### Database:
-SQL, MySQL, MongoDB, DynamoDB
+![SQL](tech_icons/sql.png) ![MySQL](tech_icons/mysql.png) ![MongoDB](tech_icons/mongodb.png) ![DynamoDB](tech_icons/dynamodb.png)
 
-### Tools:
-Git, GitHub, Jira, Bitbucket, Firebase, AWS Amplify, Linux, VS Code, Android Studio, XCode, Figma, WordPress
-
-## Professional Experience
-
-### Bee Logical Software Solutions (Pune)
-- Developed mobile apps using React Native, ensuring seamless experiences across Android and iOS platforms.
-- Utilized technologies like AWS Amplify, Redux Toolkit, and GraphQL to integrate features like maps and live chat.
-- Spearheaded the development of apps focused on mental health, optimizing performance and reducing API calls.
-
-### Codeworld Infotech (Solapur)
-- Completed production-ready applications, collaborating with cross-functional teams.
-- Implemented features like payment integration and authentication using React Native and Redux-Toolkit.
-
-## Featured Projects
-
-### Winner of SIH 2022
-- Led the "Next_Innovation" team to victory in the Smart India Hackathon, offering innovative solutions to societal problems.
-- Developed a mobile app and web portal addressing critical issues, showcasing leadership and technical prowess.
-
-### React Query in React Native
-- Developed a mobile app using React Native, integrating React Query for optimized API calls and Google OAuth for seamless user experiences.
-
-### React e-Commerce
-- Created an e-Commerce frontend web app using React JS and Redux Toolkit, offering features like user authentication and product browsing.
-
-## Achievements
-
-- 🏆 Winner of India's biggest Technical Competition SIH 2022.
-- 🎖️ Recipient of the Vikram Award for Best Technical Student.
+![Git](tech_icons/git.png) ![GitHub](tech_icons/github.png) ![Jira](tech_icons/jira.png) ![Bitbucket](tech_icons/bitbucket.png) ![Firebase](tech_icons/firebase.png) ![AWS Amplify](tech_icons/aws_amplify.png) ![Linux](tech_icons/linux.png) ![VS Code](tech_icons/vscode.png) ![Android Studio](tech_icons/android_studio.png) ![XCode](tech_icons/xcode.png) ![Figma](tech_icons/figma.png) ![WordPress](tech_icons/wordpress.png)
 
 ## Let's Connect!
 
