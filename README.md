@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Iranna Patil
 
-📱 Mobile App Developer | 🌐 Full Stack Enthusiast | 🚀 Winner of SIH 2022
+📱 Mobile App Developer | 🚀 React Native Specialist | 📱 Android & iOS Enthusiast
 
-Welcome to my GitHub! I'm passionate about crafting delightful mobile experiences and building scalable web applications. With a background in Computer Science and hands-on experience in React Native, I strive to blend innovation with industry standards to deliver top-notch solutions.
+Welcome to my GitHub! I specialize in crafting exceptional mobile experiences using React Native and Expo, catering to both Android and iOS platforms.
 
 ## About Me
 
@@ -12,13 +12,7 @@ Welcome to my GitHub! I'm passionate about crafting delightful mobile experience
 
 ## Tech Stack
 
-![JavaScript](tech_icons/javascript.png) ![TypeScript](tech_icons/typescript.png) ![Kotlin](tech_icons/kotlin.png) ![Swift](tech_icons/swift.png) ![C++](tech_icons/cpp.png) ![Python](tech_icons/python.png) ![Java](tech_icons/java.png) ![JSON](tech_icons/json.png)
-
-![React Native](tech_icons/react_native.png) ![Expo](tech_icons/expo.png) ![React JS](tech_icons/react.png) ![Redux](tech_icons/redux.png) ![Redux-Toolkit](tech_icons/redux_toolkit.png) ![Next JS](tech_icons/nextjs.png) ![Express JS](tech_icons/express.png)
-
-![SQL](tech_icons/sql.png) ![MySQL](tech_icons/mysql.png) ![MongoDB](tech_icons/mongodb.png) ![DynamoDB](tech_icons/dynamodb.png)
-
-![Git](tech_icons/git.png) ![GitHub](tech_icons/github.png) ![Jira](tech_icons/jira.png) ![Bitbucket](tech_icons/bitbucket.png) ![Firebase](tech_icons/firebase.png) ![AWS Amplify](tech_icons/aws_amplify.png) ![Linux](tech_icons/linux.png) ![VS Code](tech_icons/vscode.png) ![Android Studio](tech_icons/android_studio.png) ![XCode](tech_icons/xcode.png) ![Figma](tech_icons/figma.png) ![WordPress](tech_icons/wordpress.png)
+![React Native](tech_icons/react_native.png) ![Expo](tech_icons/expo.png) ![JavaScript](tech_icons/javascript.png) ![TypeScript](tech_icons/typescript.png) ![Redux](tech_icons/redux.png) ![Firebase](tech_icons/firebase.png)
 
 ## Let's Connect!
 
